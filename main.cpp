@@ -164,7 +164,7 @@ void add_student()
         cin >> ages[i];
         cout << "\n";
         
-        cout << "Salary " << i+1 << ": \n";
+        cout << "Bench number " << i+1 << ": \n";
         cin >> Bench_nums[i];
         cout << "\n";
     }
